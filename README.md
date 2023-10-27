@@ -40,7 +40,7 @@ I’m an innovative Engineer with 4.5 years of professional experience with a pr
 - Email: [ivaidya1@asu.edu](mailto:ivaidya1@asu.edu)
 
 🌐 **Connect with Me:**
-- [LinkedIn]([your LinkedIn profile link](https://www.linkedin.com/in/indrajit-v-b37a36186/))
+- [LinkedIn](https://www.linkedin.com/in/indrajit-v-b37a36186/)
 
 💻 **Tech Stack:**
 - JavaScript
