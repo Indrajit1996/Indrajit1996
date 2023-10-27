@@ -5,9 +5,6 @@ I’m an innovative Engineer with 4.5 years of professional experience with a pr
 
 🚀 **Skills and Expertise:**
 - React / Redux
-- Vue.js
-- Electron
-- Angular.js
 - HTML5
 - CSS
 - JavaScript
