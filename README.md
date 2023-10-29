@@ -16,6 +16,7 @@ I’m an innovative Engineer with 4.5 years of professional experience with a pr
 
 - 🚀 Frameworks:
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" height="24"/>
+  <img src="https://img.shields.io/badge/Vue-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" height="24"/>
 
 - ☁️ Infrastructure: 
   <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="24"/> &nbsp;
