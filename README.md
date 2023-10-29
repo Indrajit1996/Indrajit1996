@@ -53,19 +53,6 @@ I’m an innovative Engineer with 4.5 years of professional experience with a pr
 - Email: [ivaidya1@asu.edu](mailto:ivaidya1@asu.edu)
 
 
-💻 **Tech Stack:**
-- JavaScript
-- Typescript
-- Java
-- Python
-- MySQL
-- AWS
-- HTML5
-- CSS3
-- WordPress
-- Figma
-- Netlify
-
 ⚡ Interests:
 Distributed Systems, Web Applications, Mobile/Desktop Applications, Progressive Web Apps,  Data Structures, and Algorithms.
 
