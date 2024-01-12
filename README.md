@@ -5,7 +5,7 @@
 [![Medium](https://img.shields.io/badge/Medium-Profile-black?style=for-the-badge&logo=medium)](https://medium.com/@vindrajit1996)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Indrajit1996/)
 
-I’m an innovative Engineer with 4.5 years of professional experience with a proven track record of building highly scalable and performant systems with exceptional user interfaces that are visually appealing. With a meticulous attention to detail and a passion for delivering reliable solutions, I thrive on transforming complex challenges into elegant and efficient software solutions. I am a versatile and adaptable engineer with expertise across various tech stacks. My ability to remain framework and language agnostic enables me to quickly learn and adapt to new technologies.
+I’m an innovative Engineer with 5 years of professional experience with a proven track record of building highly scalable and performant systems with exceptional user interfaces that are visually appealing. With a meticulous attention to detail and a passion for delivering reliable solutions, I thrive on transforming complex challenges into elegant and efficient software solutions. I am a versatile and adaptable engineer with expertise across various tech stacks. My ability to remain framework and language agnostic enables me to quickly learn and adapt to new technologies.
 
 
 🔧 Skills: 
