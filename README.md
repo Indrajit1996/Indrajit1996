@@ -46,7 +46,7 @@ I’m an innovative Engineer with 5 years of professional experience with a prov
 - Javascript
 - Typescript
 - Frontend Architecture to build scalable applications
-- storybooks for the management of CSS components in a modular fashion
+- Microfrontends and Storybooks for the management of CSS components in a modular fashion
 
 
 📫 **Contact Me:**
