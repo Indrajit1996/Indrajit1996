@@ -1,6 +1,6 @@
 ## Hi there!, I'm Indrajit 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-lightgrey?style=for-the-badge)](https://indrajitv.link/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-lightgrey?style=for-the-badge)](https://indrajitv.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/indrajit-v-b37a36186/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Indra1996/)
 [![Medium](https://img.shields.io/badge/Medium-Profile-black?style=for-the-badge&logo=medium)](https://medium.com/@vindrajit1996)
